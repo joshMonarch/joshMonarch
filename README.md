@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @joshMonarch
-- 👀 I’m interested in AI & Big Data. In the future i will be Data Scientist.
+- 👀 I’m interested in AI & Big Data. In the future I will be Data Scientist.
 - 🌱 I’m currently learning about Scala and Spark. At the same time, I'm also working on my own proyects about AI.
     
   <a href="https://www.linkedin.com/in/jos%C3%A9-rey-arij%C3%B3n-a10746180/">
